@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Cipher {
+public class ADFGVXCipher {
 	public static void main(String args[]){
 
 		// get input!
